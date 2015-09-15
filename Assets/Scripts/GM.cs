@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class GM : MonoBehaviour {
 	
 	public int lives = 3;
-	public int bricks = 20;
+	public int bricks = 28;
 	public float resetDelay = 1f;
 	public Text livesText;
 	public GameObject gameOver;
